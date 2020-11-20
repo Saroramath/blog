@@ -8,11 +8,10 @@
 </h1>
 
 ## Description
-
-A ready-to-use, customizable personal blog with minimalistic design
+This is a blog built upon by using the following Gatsby-blog. You can find it at https://saroramath.github.io/blog/
 
 ## Demo
-
+[Demo](https://saroramath.github.io/blog/) is available here. The version it is based at is available at the link below.
 [Demo](https://gatsby-blog-mdx.now.sh/) is available here
 
 ## Features
