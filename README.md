@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/EllisMin/gatsby-blog-mdx">
-    <img alt="icon" src="_assets/icon-code-rainbow.png" width="60" />
+    <img alt="icon" src="_assets/tree.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  gatsby-blog-mdx
+  Think Space
 </h1>
 
 ## Description
