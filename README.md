@@ -11,9 +11,9 @@
 This is a blog built upon by using the following Gatsby-blog. You can find it at https://saroramath.github.io/blog/
 
 ## Demo
-[Demo](https://saroramath.github.io/blog/) is available here. 
-<!-- [Demo](https://gatsby-blog-mdx.now.sh/) is available here
-
+[Demo](https://saroramath.github.io/blog/) is available here. It is made thanks to the following Demo website.
+ [Demo](https://gatsby-blog-mdx.now.sh/) 
+<!--
 ## Features
 
 - Simple blog with responsive design
@@ -114,8 +114,8 @@ This is a blog built upon by using the following Gatsby-blog. You can find it at
 ├── _assets             # Contains profile image & favicon
 ├── _posts              # All of your posts goes in here as well as any other files
 ├── src                 # All the front-end source code
-├── customize.js        # ----> Modify this to customize your blog
-├── customize-styles.js # ----> Modify this to customize stylings
+├── customize.js        #  Modify this to customize your blog
+├── customize-styles.js #  Modify this to customize stylings
 ├── ...
 ├── .gitignore          # Contains file names that won't be pushed to git repository
 ├── .prettierrc         # Helps formatting your code
@@ -132,8 +132,8 @@ This is a blog built upon by using the following Gatsby-blog. You can find it at
 
 ## Issues
 
-[Issues](https://github.com/EllisMin/gatsby-blog-mdx/issues) -->
+[Issues](https://github.com/EllisMin/gatsby-blog-mdx/issues) 
 
 ## License
 
-[MIT](https://github.com/EllisMin/gatsby-blog-mdx/blob/master/LICENSE)
+[MIT](https://github.com/EllisMin/gatsby-blog-mdx/blob/master/LICENSE)-->
