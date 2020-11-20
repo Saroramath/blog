@@ -12,7 +12,7 @@ This is a blog built upon by using the following Gatsby-blog. You can find it at
 
 ## Demo
 [Demo](https://saroramath.github.io/blog/) is available here. It is made thanks to the following Demo website.
- [Demo](https://gatsby-blog-mdx.now.sh/) 
+[Demo](https://gatsby-blog-mdx.now.sh/) 
 <!--
 ## Features
 
@@ -135,5 +135,6 @@ This is a blog built upon by using the following Gatsby-blog. You can find it at
 [Issues](https://github.com/EllisMin/gatsby-blog-mdx/issues) 
 
 ## License
+[MIT](https://github.com/EllisMin/gatsby-blog-mdx/blob/master/LICENSE)
 
-[MIT](https://github.com/EllisMin/gatsby-blog-mdx/blob/master/LICENSE)-->
+-->
